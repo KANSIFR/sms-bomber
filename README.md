@@ -13,10 +13,11 @@
 
 `pkg install git`
 
-```git clone https://github.com/esfelurm/sms-bomber.git```
+`git clone https://github.com/esfelurm/sms-bomber.git`
 
 `cd sms-bomber`
 
 `python sms-bomber.py`
+
 ---------------------
 - Release date of this tool : 2022-8-30
